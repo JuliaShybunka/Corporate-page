@@ -16,4 +16,4 @@ Project is created with:
 * jQuery
 
 ## Inspiration
-* Frontend design inspired by Al Rayhan - https://freetemplates.pro/downloads/free-corporate-landing-page-html-template/.
+* Frontend design inspired by Al Rayhan - https://freetemplates.pro/downloads/free-corporate-landing-page-html-template/
